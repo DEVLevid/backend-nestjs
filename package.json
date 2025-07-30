@@ -1,8 +1,8 @@
 {
-  "name": "nest-typescript-starter",
+  "name": "crud-vue-nest-backend",
   "private": true,
   "version": "1.0.0",
-  "description": "Nest TypeScript starter repository",
+  "description": "Backend NestJS para projeto CRUD Vue Nest com módulo de gerenciamento de usuários",
   "license": "MIT",
   "scripts": {
     "build": "nest build",
